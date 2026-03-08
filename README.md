@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="358" height="325" alt="unnamed-removebg-preview" src="https://github.com/user-attachments/assets/097ec974-e0c3-4024-b683-c35e44a479fd" />
+<img width="258" height="234" alt="unnamed-removebg-preview" src="https://github.com/user-attachments/assets/c8048650-e32c-46dc-b530-a9f2bfc888ab" />
 </div>
 
 
