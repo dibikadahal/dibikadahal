@@ -1,5 +1,5 @@
 <div align="center">
-<img width="158" height="143" alt="unnamed-removebg-preview" src="https://github.com/user-attachments/assets/8ea8a03a-062d-4f45-a067-e35f41eb51d4" />
+<img src="assets/portrait.svg" width="460" alt="ASCII portrait">
 </div>
 
 ###
@@ -77,3 +77,4 @@
 </div>
 
 ###
+
