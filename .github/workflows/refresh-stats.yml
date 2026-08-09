@@ -20,9 +20,15 @@ jobs:
           GH_LOGIN: ${{ github.repository_owner }}
         run: python3 scripts/generate_streak.py
 
+      - name: Generate snake SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/generate_snake.py
+
       - name: Commit if changed
         run: |
-          FILES="assets/streak.svg"
+          FILES="assets/streak.svg assets/snake.svg"
           if [ -z "$(git status --porcelain -- $FILES)" ]; then
             echo "no changes"
             exit 0
