@@ -1,8 +1,9 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
-     <img src="assets/neofetch.svg" width="100%" alt="neofetch">
-</picture>
+<img src="assets/neofetch.svg?v=2" width="100%" alt="neofetch">
+</div>
+
+<div align="center">
+<img src="assets/streak.svg?v=2" width="100%" alt="streak stats">
 </div>
 
 <div align="center">
@@ -22,3 +23,35 @@
 </div>
 
 <h2 align="center">Hey there 👋</h2>
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+<p align="center">I'm Dibika Dahal. <br><br>- 📚 AI student currently pursuing my Bachelor's degree.<br>- 🔭 Interested in Artificial Intelligence, Machine Learning, and Computer Vision.<br>- 🐍 Currently learning Python and building practical AI projects.<br><br>🌱 Always learning and exploring new technologies.<br>🤝 Open to collaboration on interesting AI and Python-based projects.</p>
+
+<h3 align="left">🛠 Language and tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="33" alt="amazonwebservices logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="33" alt="arduino logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" alt="github logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="mysql logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="33" alt="notion logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="33" alt="numpy logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="33" alt="opencv logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="33" alt="pycharm logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="33" alt="pandas logo"  />
+</div>
