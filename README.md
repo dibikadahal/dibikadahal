@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
-  <img src="assets/portrait.svg" width="460" alt="ASCII portrait">
+     <img src="assets/neofetch.svg" width="100%" alt="neofetch">
 </picture>
 </div>
 
