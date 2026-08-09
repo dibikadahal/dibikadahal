@@ -1,5 +1,8 @@
 <div align="center">
-<img src="assets/portrait.svg" width="460" alt="ASCII portrait">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
+  <img src="assets/portrait.svg" width="460" alt="ASCII portrait">
+</picture>
 </div>
 
 ###
@@ -77,4 +80,5 @@
 </div>
 
 ###
+
 
